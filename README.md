@@ -1,2 +1,2 @@
 # DrawingBoard_JS
-Drawing Board Implemented in Vanilla Javascript
+Drawing Board made with Vanilla Javascript
